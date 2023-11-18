@@ -39,7 +39,12 @@ Altogether after the data cleaning, about 695 rows of data were left. I assume i
 
 ### Trend Analysis
 
-Among the top YouTube streamers, each YouTube streamer is identified with a particular category, and the most popular categories were obtained by subscribers. There was no correlation between the number of subscribers and the number of likes or comments
+Among the top YouTube streamers, each YouTube streamer is identified with a particular category, and the most popular categories were obtained by subscribers. There was no correlation between the number of subscribers and the number of likes, visits, or, comments. This means that, the number of likes, comments, and visits does not bring about a rise in Subscribers 
+
+
+![Youtube subscribers correlation](https://github.com/Ajkabs19/Youtube-Streamers-Analysis/assets/138918007/413c4d49-8ef0-4003-8aff-f99e562097f3)
+
+
 
 ### Audience Study
 
@@ -59,6 +64,7 @@ An average of subscribers, likes, comments, and visits was done.
 MÃºsica y baile category has the highest number of streamers. And certainly, there are a couple of other categories with exceptional performance.
 
 
+![Highest YT Category](https://github.com/Ajkabs19/Youtube-Streamers-Analysis/assets/138918007/2dbeed1e-acd0-40ee-9db0-9f3af29e2d4f)
 
 
 ### Brands and Collaborations
@@ -78,4 +84,4 @@ All (689) Streamers performed above average in terms of subscriptions
 Since the analysis shows that a significant portion dropped below average in Comments mostly, and then Likes much fairly, Youtube users can be given content recommendations based on top performing categories, especially the ones with the most comments engagements as top on the priority list, then Likes.
 
 
-
+Access my Kaggle portfolio [here](https://www.kaggle.com/kehindeajadi)
